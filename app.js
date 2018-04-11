@@ -52,7 +52,6 @@ function askQuestions() {
     }).catch(function (error) {
         console.log(error);
     });
-
 }
 
 askQuestions();
