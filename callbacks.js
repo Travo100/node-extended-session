@@ -3,7 +3,7 @@
 // waits 2 seconds and then executes a callback 
 
 function sayMessageAndWait(message, callback) {
-    console.log(message);
+    console.log(message);   
 
     setTimeout(function(){
         callback();
