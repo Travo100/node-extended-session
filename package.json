@@ -1,0 +1,30 @@
+{
+  "name": "node-extended-session",
+  "version": "1.0.0",
+  "description": "A extended session with node for coding bootcamp UCSD 2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travo100/node-extended-session.git"
+  },
+  "keywords": [
+    "tutorial",
+    "session",
+    "class",
+    "node"
+  ],
+  "author": "Travis Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travo100/node-extended-session/issues"
+  },
+  "homepage": "https://github.com/Travo100/node-extended-session#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "moment": "^2.22.0",
+    "weather-js": "^2.0.0"
+  }
+}
